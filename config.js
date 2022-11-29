@@ -1,6 +1,6 @@
 require("dotenv").config()
 
-module.expots = {
+module.exports = {
     api: {
         port: process.env.PORT || 3000
 
