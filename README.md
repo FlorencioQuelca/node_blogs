@@ -14,3 +14,6 @@ microservicios - auth0 - redis arquitectura hexagonal
 
 git del profesor
 https://github.com/SheykoWk/blog-api
+
+repo
+https://github.com/SheykoWk/blog-api.git

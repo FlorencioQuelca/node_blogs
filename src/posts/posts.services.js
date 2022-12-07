@@ -20,6 +20,7 @@ const createNewPost = (req, res) => {
             res.status(400).json({ message: e.message })
         })
 }
-exports = {
-
+module.exports = {
+    getAllPost,
+    createNewPost
 }

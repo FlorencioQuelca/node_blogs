@@ -1,3 +1,5 @@
+const Posts = require('../models/users.models')
+const uuid = require('uuid')
 const findAllPost = async() => {
 
 }
@@ -13,7 +15,7 @@ const createPost = async(obj) => {
     })
     return data
 }
-exports = {
+module.exports = {
     findAllPost,
     createPost
 }
