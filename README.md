@@ -11,3 +11,6 @@
 Sign up /auth/register
 Login /auth/login
 microservicios - auth0 - redis arquitectura hexagonal
+
+git del profesor
+https://github.com/SheykoWk/blog-api
